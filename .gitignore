@@ -1,7 +1,9 @@
 # Data
 logs/
 stores/
-data/
+logs/
+stores/
+# data/
 
 # Packaging
 venv/

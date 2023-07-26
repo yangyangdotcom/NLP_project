@@ -72,6 +72,8 @@ logging_config = {
     },
 }
 
+BLOB_STORE = Path(STORES_DIR, "blob")
+BLOB_STORE.mkdir(parents=True, exist_ok=True)
 logging.config.dictConfig(logging_config)
 logger = logging.getLogger()
 
