@@ -1,5 +1,6 @@
 # NLP project
-This is a little project I did to sharpen my skill in Machine Learning concept and DevOps. You can follow the instruction below to run the code
+This is a little project I did to sharpen my skill in Machine Learning concepts and DevOps. 
+You can follow the instruction below to run the code
 
 ## Setting up virtual environment
 It is recommended to use Python version 3.9.1
@@ -39,3 +40,5 @@ This will open up a browser tab automatically, and you can interact with it.
 
 ### Performance
 ![Alt text](/images/performance.png)
+
+Shout out to [Goku Mohandas](https://madewithml.com/) for his guidance in this project.
