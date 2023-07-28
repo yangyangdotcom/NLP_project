@@ -32,13 +32,10 @@ streamlit run app.py
 This will open up a browser tab automatically, and you can interact with it.
 
 ### Data
-![Alt text]("images/Screenshot 2023-07-28 145241.png")
-
-### Data
-![Alt text]("images/data.png")
+![Alt text]("/images/data.png")
 
 ### Inference
-![Alt text]("images/inference.png")
+![Alt text]("/images/inference.png")
 
 ### Performance
-![Alt text]("images/performance.png")
+![Alt text]("/images/performance.png")
