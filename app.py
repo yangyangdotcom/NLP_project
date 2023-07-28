@@ -1,9 +1,9 @@
-import pandas as pd
 from pathlib import Path
-import streamlit as st
 
-from bnai import config
-from bnai import main, utils
+import pandas as pd
+
+import streamlit as st
+from bnai import config, main, utils
 
 # Title
 st.title("MLOps Course · Made With ML")
